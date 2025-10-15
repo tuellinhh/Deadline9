@@ -700,7 +700,7 @@ body {
     width: 100%;
     justify-content: flex-end;
     align-items: center;
-    gap: 26px;
+    gap: 24px;
     height: 673px;
 }
 
@@ -734,7 +734,7 @@ body {
 .f-1-box {
     display: flex;
     flex-direction: column;
-    gap: 18px;
+    gap: 20px;
 }
 
 .f-1-ch-content-box {
@@ -758,7 +758,7 @@ body {
     width: 168px;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 9px;
 }
 
 .detail {}
@@ -803,7 +803,7 @@ body {
     width: 309.84px;
     height: 48px;
     margin: 0;
-    padding: 0 0 0 10px;
+    padding: 0 0 0 9px;
     background-color: rgba(248, 249, 249, 1);
     box-shadow: 0 0 0 1 rgba(104, 115, 125, 1);
     border: 1.6px solid rgba(104, 115, 125, 1);
