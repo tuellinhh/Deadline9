@@ -256,8 +256,11 @@ body {
 }
 
 .text_container_body_3 {
-    width: 552px;
+    width: 500px;
     height: 324px;
+    padding-left: 8px;
+
+
 }
 
 .text_body_3_1 {
@@ -386,7 +389,7 @@ body {
     width: 1104px;
     justify-content: space-around;
     align-items: center;
-    gap: 64px;
+    gap: 100px;
 }
 
 .img_container_body_5 {
@@ -762,7 +765,7 @@ body {
     gap: 9px;
 }
 
-.detail {}
+
 
 .f-border {
     border-bottom: 1px solid rgba(194, 200, 204, 1);
@@ -772,7 +775,6 @@ body {
 
 .f-container-2 {
     display: flex;
-  gap: 16px;
     width: 1088px;
 }
 
@@ -782,6 +784,8 @@ body {
    gap: 6px;
    width: 260px;
    height: 56px;
+   margin-right: 16px;
+
    
 }
 
@@ -802,11 +806,12 @@ body {
 .f-2-box-input {
     display: flex;
     width: 444px;
+    margin-right: 136px;
 }
 
 .f-2-input {
     width: 309.84px;
-    height: 48px;
+    height: 44px;
     margin: 0;
     padding-left: 9px;
     background-color: #F8F9F9;
@@ -816,7 +821,7 @@ body {
 
 .f-2-subscribe-button {
     width: 134.16px;
-    height: 48px;
+    height: 44px;
     display: flex;
     justify-content: center;
     align-items: center;
