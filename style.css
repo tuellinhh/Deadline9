@@ -92,7 +92,6 @@ body {
 
 
 
-
 .body_1 {
     height: 166px;
     display: flex;
@@ -256,11 +255,9 @@ body {
 }
 
 .text_container_body_3 {
-    width: 500px;
+    width: 552px;
     height: 324px;
     padding-left: 8px;
-
-
 }
 
 .text_body_3_1 {
@@ -389,7 +386,7 @@ body {
     width: 1104px;
     justify-content: space-around;
     align-items: center;
-    gap: 100px;
+    gap: 64px;
 }
 
 .img_container_body_5 {
@@ -689,7 +686,6 @@ body {
 
 
 
-
 .footer {
     height: 705px;
     display: flex;
@@ -723,8 +719,6 @@ body {
 .f-container-1-ch {
     width: 100%;
     display: flex;
-    justify-content: center;
-    gap: 16px;
 }
 
 .f-1-ch-content {
@@ -759,13 +753,11 @@ body {
     font-weight: 400;
     font-size: 11px;
     line-height: 18px;
-    width: 168px;
+    width: 184px;
     display: flex;
     flex-direction: column;
     gap: 9px;
 }
-
-
 
 .f-border {
     border-bottom: 1px solid rgba(194, 200, 204, 1);
@@ -781,12 +773,10 @@ body {
 .f-2-box-content {
     display: flex;
     flex-direction: column;
-   gap: 6px;
-   width: 260px;
-   height: 56px;
-   margin-right: 16px;
-
-   
+    gap: 6px;
+    width: 260px;
+    height: 56px;
+    margin-right: 16px; 
 }
 
 .f-2-content {
@@ -821,7 +811,7 @@ body {
 
 .f-2-subscribe-button {
     width: 134.16px;
-    height: 44px;
+    height: 46px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -850,7 +840,7 @@ body {
 
 .f-box-term-ch {
     display: flex;
-    gap: 16px;
+    gap: 12px;
 }
 
 .f-term {
@@ -903,11 +893,11 @@ body {
 
         .text {
             position: relative;
-           
+            width: 320px;
             height: 92px;
             top: 98px;
             font-weight: 400;
-            font-size: 15px;
+            font-size: 16px;
             line-height: 24px;
             text-align: center;
             color: #17494D;
@@ -915,7 +905,7 @@ body {
 
         .text1 {
             position: relative;
-           
+           width: 290px;
             height: 92px;
             top: 98px;
             font-weight: 400;
@@ -1035,4 +1025,5 @@ body {
         }
     }
 }
+
 
